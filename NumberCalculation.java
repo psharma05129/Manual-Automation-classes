@@ -7,9 +7,8 @@ public class NumberCalculation {
 		int Math = 55;
 		int Science = 75;
 		int English = 80;
-		int divide = 3;
-
-		double  average = (Math+Science+English)/ (double) divide;
+		
+		double  average = (Math+Science+English)/  3;
 
 		System.out.println(" Math Number is : " + Math);
 		System.out.println(" Science Number is : " + Science);
